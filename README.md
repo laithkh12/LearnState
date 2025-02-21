@@ -22,4 +22,4 @@ This project demonstrates how to use the `useState` hook to manage state in a Re
 
 ## License
 
-This project is for learning purposes and does not have an official license.
+This project is for private use only
